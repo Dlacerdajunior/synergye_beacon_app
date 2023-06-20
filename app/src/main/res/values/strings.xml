@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Synergye Beacon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="TITULO_HOME">Monitoramento do dispositivo</string>
+    <string name="STATUS_CONECTADO">STATUS : CONECTADO</string>
+    <string name="STATUS_DESCONECTADO">STATUS : DESCONECTADO</string>
+    <string name="NOTIFICACOES">Notificação</string>
+    <string name="TAG_DESCONECTADA">TAG DESCONECTADA!!!</string>
+    <string name="TAG_LONGE">TAG MUITO LONGE!!!</string>
+
+    <string name="LIGAR_PARA_CENTRAL">LIGAR PARA CENTRAL</string>
+    <string name="AGENDA">AGENDA</string>
+    <string name="RELOGIO">RELÓGIO</string>
+    <string name="ALERTAS">ALERTAS 0</string>
+    <string name="EQUIPAMENTO">EQUIPAMENTO - </string>
+
+
+    <string name="Janeiro">Janeiro</string>
+    <string name="Fevereiro">Fevereiro</string>
+    <string name="Marco">Fevereiro</string>
+    <string name="Abril">Abril</string>
+    <string name="Maio">Maio</string>
+    <string name="Junho">Junho</string>
+    <string name="Julho">Julho</string>
+    <string name="Agosto">Agosto</string>
+    <string name="Setembro">Setembro</string>
+    <string name="Outubro">Outubro</string>
+    <string name="Novembro">Novembro</string>
+    <string name="Dezembro">Dezembro</string>
+
+    <string name="domingo">domingo</string>
+    <string name="segunda">segunda</string>
+    <string name="terca">terça</string>
+    <string name="quarta">quarta</string>
+    <string name="quinta">quinta</string>
+    <string name="sexta">sexta</string>
+    <string name="sabado">sábado</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

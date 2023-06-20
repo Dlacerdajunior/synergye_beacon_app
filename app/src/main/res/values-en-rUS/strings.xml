@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Synergye Beacon</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <string name="TITULO_HOME">Device monitoring</string>
+    <string name="STATUS_CONECTADO">STATUS: CONNECTED</string>
+    <string name="STATUS_DESCONECTADO">STATUS: DISCONNECTED</string>
+    <string name="NOTIFICACOES">Notification</string>
+    <string name="TAG_DESCONECTADA">TAG DISCONNECTED!!!</string>
+    <string name="TAG_LONGE">TAGS FAR AWAY!!!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Abril">April</string>
+    <string name="Agosto">August</string>
+    <string name="Dezembro">December</string>
+    <string name="Fevereiro">February</string>
+    <string name="Janeiro">January</string>
+    <string name="Julho">July</string>
+    <string name="Junho">June</string>
+    <string name="Maio">May</string>
+    <string name="Marco">February</string>
+    <string name="Novembro">November</string>
+    <string name="Outubro">October</string>
+    <string name="Setembro">September</string>
+    <string name="domingo">Sunday</string>
+    <string name="quarta">Wednesday</string>
+    <string name="quinta">Thursday</string>
+    <string name="sabado">Saturday</string>
+    <string name="segunda">Monday</string>
+    <string name="sexta">Friday</string>
+    <string name="terca">Tuesday</string>
+    <string name="EQUIPAMENTO">EQUIPMENT - </string>
+    <string name="ALERTAS">ALERTS 0</string>
+    <string name="AGENDA">SCHEDULE</string>
+    <string name="LIGAR_PARA_CENTRAL">CONNECT TO CENTRAL</string>
+    <string name="RELOGIO">CLOCK</string>
+</resources>
